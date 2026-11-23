@@ -1,0 +1,4 @@
+.env
+backup-caderno.sql
+__pycache__/
+workspace-write.txt
